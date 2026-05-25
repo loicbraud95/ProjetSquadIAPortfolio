@@ -26,7 +26,7 @@ Vous trouverez dans ce projet un SquadDirector piloté par une FSM, chargé de g
         <li>rédaction de documentation sur la technique implémentée.</li> 
     </ul>
 
-<img src="PortfolioAsset/fight.png" height="10%" width="10%"/>
+<img src="PortfolioAsset/fight.png" height="100%" width="100%"/>
 
 <h3>👾 À propos du jeu</h3>
 Le joueur apparaît avec une équipe d’ia et peut se déplacer dans la carte pour rencontrer
